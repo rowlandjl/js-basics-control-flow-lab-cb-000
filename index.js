@@ -3,6 +3,8 @@ function scuberGreetingForFeet(distance){
     'No can do.';
   } else if (distance > 2000) {
     'I will gladly take 30 bucks.';
+  } else {
+    'This one is on me.';
   }
 }
 
