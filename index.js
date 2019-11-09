@@ -1,5 +1,7 @@
 function scuberGreetingForFeet(distance){
-  // Write your code here!
+  if (distance > 2500) {
+    'No can do.'
+  }
 }
 
 function ternaryCheckCity(){
